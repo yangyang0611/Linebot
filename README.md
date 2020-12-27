@@ -86,7 +86,7 @@
 ![](https://i.imgur.com/MIv8dgR.jpg)
 ![](https://i.imgur.com/jpnyTR8.jpg)
 ![](https://i.imgur.com/uVuqb8t.jpg)
-![](https://imgur.com/JAurchn)
+![](https://imgur.com/JAurchn.jpg)
 ![](https://i.imgur.com/KqdNTRZ.jpg)
 
 
