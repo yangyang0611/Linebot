@@ -65,33 +65,17 @@
 
 ## 使用示範
 ### 輸入想瞭解的主題
-![](https://i.imgur.com/RAXRooY.jpg)
-![](https://i.imgur.com/3VkDy82.jpg)
-![](https://i.imgur.com/JhK01qT.jpg)
-![](https://i.imgur.com/OCsoSBk.jpg)
+
 ### 景點
-![](https://i.imgur.com/OodsURE.jpg)
-![](https://i.imgur.com/95lZAGO.jpg)
-![](https://i.imgur.com/DOj8yEs.jpg)
-![](https://i.imgur.com/bgeHzOf.jpg)
-![](https://i.imgur.com/R2vy5FN.jpg)
-![](https://i.imgur.com/TfHJx3t.jpg)
-![](https://i.imgur.com/6ZEIZzI.jpg)
-![](https://i.imgur.com/2iNuLe8.jpg)
+
 ### 節日
-![](https://i.imgur.com/Aej3bXd.jpg)
-![](https://i.imgur.com/shzYGJD.jpg)
-![](https://i.imgur.com/nxUfsPP.jpg)
-![](https://i.imgur.com/pvibAF1.jpg)
-![](https://i.imgur.com/xqbqg5A.jpg)
-![](https://i.imgur.com/hsoAJeE.jpg)
-![](https://i.imgur.com/7KyAzOK.jpg)
+
 ### 隨時畫FSM
-![](https://i.imgur.com/kk8b9aa.jpg)
+![](https://i.imgur.com/zP486SZ.png)
 
 
 ## FSM
-![](https://i.imgur.com/GMrkfDT.png)
+![](https://i.imgur.com/zP486SZ.png)
 ### state說明
 - user: 一開始會出現`Menu`做選擇
 - Menu: 輸入`景點`或`節日`
