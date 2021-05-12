@@ -62,7 +62,8 @@
         - `大寶森節`
             - 文字敘述由來
             - 文字列出食物
-
+## 範例影片
+https://www.youtube.com/watch?v=VDeK29aXUjM
 ## 使用示範
 ### 輸入想瞭解的主題
 ![](https://i.imgur.com/xUmwzpw.jpg)
