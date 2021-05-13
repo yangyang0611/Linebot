@@ -66,7 +66,7 @@
 https://www.youtube.com/watch?v=VDeK29aXUjM
 ## 使用示範
 ### 輸入想瞭解的主題
-![](https://i.imgur.com/xUmwzpw.jpg)
+![](https://i.imgur.com/xUmwzpwl.jpg)
 
 ### 景點
 ![](https://i.imgur.com/yLMcWnD.jpg)
