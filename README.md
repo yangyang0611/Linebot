@@ -65,38 +65,52 @@
 ## 範例影片
 https://www.youtube.com/watch?v=VDeK29aXUjM
 ## 使用示範
-### 輸入想瞭解的主題
+### 輸入想瞭解的主題（景點 / 節日）
 ![](https://i.imgur.com/xUmwzpwl.jpg)
 
-### 景點
+## 景點
+### 景點種類選擇
 ![](https://i.imgur.com/yLMcWnDl.jpg)
 ![](https://i.imgur.com/TiGHG3rl.jpg)
 
+### 景點選擇
 ![](https://i.imgur.com/isLe3Dbl.jpg)
 ![](https://i.imgur.com/J764XBOl.jpg)
-
 ![](https://i.imgur.com/c0U6DThl.jpg)
+
+### 景點簡介
 ![](https://i.imgur.com/2CChUfbl.jpg)
+
+### 顯示門票及規定
 ![](https://i.imgur.com/YcObw3Wl.jpg)
+
+### 介紹影片
 ![](https://i.imgur.com/wkty8nql.jpg)
-### 節日
+
+## 節日
+### 種族選擇
 ![](https://i.imgur.com/2dUbkyol.jpg)
 ![](https://i.imgur.com/Cy23nBcl.jpg)
+
+### 節日選擇
 ![](https://i.imgur.com/SDAlEStl.jpg)
 ![](https://i.imgur.com/zUpNVGUl.jpg)
 ![](https://i.imgur.com/MIv8dgRl.jpg)
+
+### 節日由來與傳統食物選擇
 ![](https://i.imgur.com/jpnyTR8l.jpg)
 ![](https://i.imgur.com/uVuqb8tl.jpg)
+
+### 由來
 ![](https://imgur.com/JAurchnl.jpg)
+
+### 傳統食物簡介
 ![](https://i.imgur.com/KqdNTRZl.jpg)
 
 
-### 隨時畫FSM
+### Finite State Machine
 ![](https://i.imgur.com/zP486SZ.png)
 
-
-## FSM
-![](https://i.imgur.com/zP486SZ.png)
 ### state說明
 - user: 一開始會出現`Menu`做選擇
 - Menu: 輸入`景點`或`節日`
@@ -118,3 +132,7 @@ https://www.youtube.com/watch?v=VDeK29aXUjM
 - indian: 輸入想瞭解`印度人`的`屠妖節`或`大寶森節`
 - deepa：輸入想瞭解`屠妖節`的`由來`或`傳統食物`
 - thai：輸入想瞭解`大寶森節`的`由來`或`傳統食物`
+
+## References
+![Line Messaging API Reference](https://developers.line.biz/en/reference/messaging-api/)
+![Line line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
